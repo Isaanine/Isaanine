@@ -1,12 +1,16 @@
-### Hi there 👋
+# Hello! I'm Isabelle✨
 
+## About Me
+I'm a technology enthusiast and developer, always eager to learn and improve my skills. My main focus is on web and mobile app development, using various technologies and languages.
+##
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Isaanine&show_icons=true&count_private=true&hide_border=true&title_color=B91372&icon_color=B91372&text_color=c9d1d9&bg_color=0d1117" alt="Isabelle Andrade github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaanine&layout=compact&hide_border=true&title_color=B91372&text_color=fff&bg_color=0d1117" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaanine&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7203F7FF" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Isaanine&count_private=true&show_icons=true&theme=none&rank_icon=github&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=7203F7FF" alt="readme stats" />
 </div>
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isaanine/Isaanine/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isaanine/Isaanine/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Isaanine/Isaanine/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
