@@ -1,7 +1,7 @@
 # Hello! I'm Isabelle✨
 
 ## About Me
-I'm a technology enthusiast and developer, always eager to learn and improve my skills. My main focus is on web and mobile app development, using various technologies and languages.
+I'm a technology enthusiast and developer, always eager to learn and improve my skills. My main focus is on data analysis and mobile app development, using various technologies and languages.
 ##
 <div align="center">  
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaanine&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7203F7FF" />
