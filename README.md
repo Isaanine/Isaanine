@@ -5,8 +5,8 @@
 
   <p>
     <b>Software Engineer Student & Data Enthusiast</b><br>
-    Focada em transformar problemas complexos em soluções digitais acessíveis.<br>
-    Apaixonada por <b>Inovação Social</b>, <b>Análise de Dados</b> e <b>Segurança</b>.
+    Focused on turning complex problems into accessible digital solutions.<br>
+    Passionate about <b>Social Innovation</b>, <b>Data Analytics</b>, and <b>Security</b>.
   </p>
 
   <p>
@@ -26,9 +26,9 @@
 
 | Project | Role & Impact |
 | :--- | :--- |
-| **💊 PillTrack**<br>_HealthTech & IoT_ | **Finalista Nacional RNP (Saúde Digital)**<br>Assistente inteligente para controle de medicamentos com integração IoT.<br>• Foco em ODS 3 (Saúde e Bem-Estar). |
-| **🏫 Crescer Sabendo**<br>_EdTech_ | **Apresentado na FETEPS**<br>Plataforma de gestão para ONG de alfabetização infantil.<br>• Otimização da comunicação escolar e voluntariado.<br>• Reconhecimento da diretoria do Centro Paula Souza. |
-| **🛡️ Hackers do Bem**<br>_Cybersecurity_ | **2º Lugar (Categoria Elas)**<br>Competição nacional de Capture The Flag (CTF).<br>• Resolução de desafios de Criptografia, OSINT e Lógica.<br>• Alta performance sob pressão. |
+| **💊 PillTrack**<br>_HealthTech & IoT_ | **RNP National Finalist (Digital Health)**<br>Smart medication assistant with IoT integration.<br>• Focused on SDG 3 (Good Health and Well-being). |
+| **🏫 Crescer Sabendo**<br>_EdTech_ | **Presented at FETEPS**<br>Management platform for a child literacy NGO.<br>• Optimized school communication and volunteering flow.<br>• Recognized by the Centro Paula Souza board. |
+| **🛡️ Hackers do Bem**<br>_Cybersecurity_ | **2nd Place (Women's Category)**<br>National Capture The Flag (CTF) competition.<br>• Solved Cryptography, OSINT, and Logic challenges.<br>• High performance under pressure. |
 
 <br>
 
@@ -46,7 +46,7 @@
 <br>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Science-DSA-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Science-blue?style=for-the-badge" />
 
 **TOOLS & ECOSYSTEM**
 <br>
@@ -62,9 +62,7 @@
 ## 📊 Analytics & Impact
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Isaanine&show_icons=true&theme=gotham&rank_icon=github&hide_border=true&bg_color=0d1117&random=1" />
-  
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaanine&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7203F7FF&theme=gotham&random=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaanine&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -75,6 +73,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Isaanine/Isaanine/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 <br>
 
 ---
@@ -83,7 +82,7 @@
   <i>“Technology is my canvas. Learning is my fuel. Building the future is my purpose.”</i>
   <br><br>
   <p>
-    <b>Certificações:</b> TOEIC Bridge (760) • <br>
-    <b>Soft Skills:</b> Liderança • Comunicação • Resiliência
+    <b>Certifications:</b> TOEIC Bridge (760) • Data Science & AI Fund. (DSA)<br>
+    <b>Soft Skills:</b> Leadership • Communication • Resilience
   </p>
 </div>
