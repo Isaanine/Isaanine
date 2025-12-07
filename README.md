@@ -62,9 +62,9 @@
 ## 📊 Analytics & Impact
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Isaanine&show_icons=true&theme=gotham&rank_icon=github&hide_border=true&bg_color=0d1117" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Isaanine&show_icons=true&theme=gotham&rank_icon=github&hide_border=true&bg_color=0d1117&random=1" />
   
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaanine&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7203F7FF&theme=gotham" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaanine&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=7203F7FF&theme=gotham&random=1" />
 </div>
 
 <div align="center">
