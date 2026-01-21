@@ -26,8 +26,7 @@
 
 | Award | Description |
 | :--- | :--- |
-| **🥈 2nd Place - Hackers do Bem**<br>_Cybersecurity CTF_ | **National Capture The Flag (Women's Category)**<br>• Demonstrated resilience and technical precision under pressure.<br>• Solved complex challenges in **Cryptography**, **OSINT**, and **Logic**. |
-| **🚀 RNP National Finalist**<br>_Digital Health Program_ | **Project: PillTrack**<br>• Selected among top projects nationwide for innovation in Digital Health.<br>• Aligned with UN SDG 3 (Good Health and Well-being). |
+| **🥈 2nd Place - Hackers do Bem**<br>_Cybersecurity CTF_ | **National Capture The Flag for Women's**<br>• Demonstrated resilience and technical precision under pressure.<br>• Solved complex challenges in **Cryptography**, **OSINT**, and **Logic**. |
 
 <br>
 
