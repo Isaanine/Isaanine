@@ -38,7 +38,6 @@
 | **01. Leveling** | ✅ Completed | Intro to Networking, Hardware, and Programming Logic. |
 | **02. Basic** | ✅ Completed | Networking (TCP/IP), Cryptography, and OS Security (Linux/Windows). |
 | **03. Fundamental** | 🔄 **In Progress** | Vulnerability Assessment, Forensics, Incident Response, and Cloud Security. |
-| **04. Specialized** | 🎯 Goal (2026) | Focus on **Blue Team** and **DevSecOps**. |
 
 <br>
 
