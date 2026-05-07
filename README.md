@@ -4,7 +4,7 @@
   ### 🌌 Turning Ideas Into Impact
 
   <p>
-    <b>Systems Analysis and Development Student @ FATEC | Data Enthusiast</b><br>
+    <b>Systems Analysis and Development Student @ FATEC | IT Intern @ SEDUC-SP</b><br>
     Focused on turning complex problems into accessible digital solutions.<br>
     Passionate about <b>Social Innovation</b>, <b>Data Analytics</b>, and <b>Cybersecurity</b>.
   </p>
@@ -26,8 +26,8 @@
 
 | Award | Description |
 | :--- | :--- |
-| **🥈 2nd Place - Hackers do Bem**<br>_Cybersecurity CTF_ | **National Capture The Flag for Women's**<br>• Demonstrated resilience and technical precision under pressure.<br>• Solved complex challenges in **Cryptography**, **OSINT**, and **Logic**. |
-
+| **🥈 2nd Place - Hackers do Bem**<br>_Cybersecurity CTF_ | **National Women's CTF**<br>• Demonstrated resilience and technical precision under pressure.<br>• Solved complex challenges in **Cryptography**, **OSINT**, and **Logic**. |
+| **🔬 mareIA Platform**<br>_Scientific Initiation (PRC-SD)_ | **Researcher / Scholar**<br>• Telemonitoring & Public Health.<br>• Technological research in partnership with the Brazilian Ministry of Health and RNP. |
 <br>
 
 ## 🔐 Cybersecurity Journey: Hackers do Bem
@@ -37,7 +37,8 @@
 | :--- | :--- | :--- |
 | **01. Leveling** | ✅ Completed | Intro to Networking, Hardware, and Programming Logic. |
 | **02. Basic** | ✅ Completed | Networking (TCP/IP), Cryptography, and OS Security (Linux/Windows). |
-| **03. Fundamental** | 🔄 **In Progress** | Vulnerability Assessment, Forensics, Incident Response, and Cloud Security. |
+| **03. Fundamental** | ✅ Completed | Vulnerability Assessment, Forensics, Incident Response, and Cloud Security. |
+| **04. Especializado - Blue Team** | 🔄 **In Progress** | SIEM/SOC, Threat Hunting, Hardening, and Network Defense. |
 
 <br>
 
@@ -46,8 +47,8 @@
 | Project | Role & Stack | Impact |
 | :--- | :--- | :--- |
 | **💊 PillTrack**<br>_HealthTech & IoT_ | **Full Stack Developer**<br>Python, IoT, Data Integration | **Smart Medication Assistant**<br>Developed an integrated solution to improve medication adherence and patient safety. |
-| **🏫 Crescer Sabendo**<br>_EdTech_ | **Lead Developer**<br>Management Platform | **Presented at FETEPS**<br>Optimized NGO workflow and school communication.<br>Recognized by the **Centro Paula Souza** board for social impact. |
-
+| **🏫 Crescer Sabendo**<br>_EdTech_ | **Lead Developer, Social Impact**<br>Management Platform | **Presented at FETEPS**<br>Optimized NGO workflow and school communication.<br>Recognized by the **Centro Paula Souza** board for social impact. |
+| **🤝 ConectaBem**<br>_Social Impact & NGO Tech_ | **Developer**<br>Tech for Good | **Empowering NGOs**<br>Developed digital solutions to streamline operations and improve the management of Non-Governmental Organizations. |
 <br>
 
 ## 🛠️ Tech Stack & Skills
@@ -59,6 +60,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
 **FRONTEND & MOBILE**
 <br>
@@ -75,7 +77,8 @@
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 <br>
@@ -85,17 +88,23 @@
 - **🎓 Technologist in Systems Analysis and Development** | *FATEC Zona Leste (In Progress)*
 - **🎓 Technician in Systems Development** | *ETEC*
 - **🛡️ Santander Cybersecurity Bootcamp** | *DIO (2025)*
-- **🇺🇸 TOEIC Bridge** | *Score: 760 (Intermediate/Advanced)*
+- **🐧 Linux Essentials** | *Cisco Networking Academy (2025)*
 - **📊 Data Science & AI Fundamentals** | *Data Science Academy*
+- **🇺🇸 TOEIC Bridge** | *Score: 760 (Intermediate/Advanced)*
 
+<br>
+
+## 🌍 Languages
+
+- 🇧🇷 **Portuguese:** Native
+- 🇺🇸 **English:** Advanced (TOEIC Bridge: 760)
+- 🇪🇸 **Spanish:** Basic
 <br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaanine&theme=gotham&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaanine&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -106,13 +115,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Isaanine/Isaanine/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
 <br>
 
 ---
-
-<div align="center">
-  <i>“Technology is my canvas. Learning is my fuel. Building the future is my purpose.”</i>
-  <br>
-  <b>Soft Skills:</b> Leadership • Adaptability • Analytical Thinking
-</div>
