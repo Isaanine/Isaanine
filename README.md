@@ -38,7 +38,7 @@
 | **01. Leveling** | ✅ Completed | Intro to Networking, Hardware, and Programming Logic. |
 | **02. Basic** | ✅ Completed | Networking (TCP/IP), Cryptography, and OS Security (Linux/Windows). |
 | **03. Fundamental** | ✅ Completed | Vulnerability Assessment, Forensics, Incident Response, and Cloud Security. |
-| **04. Especializado - Blue Team** | 🔄 **In Progress** | SIEM/SOC, Threat Hunting, Hardening, and Network Defense. |
+| **04. Specialized - Blue Team** | 🔄 **In Progress** | SIEM/SOC, Threat Hunting, Hardening, and Network Defense. |
 
 <br>
 
